@@ -1,0 +1,14 @@
+/node_modules/
+/.idea/
+/build/
+/typings/
+
+merchant_certs/ums/ums-paycom\.cer
+
+Environment configs
+.env
+.env.stage
+.env.production
+env-config.json.disabled
+configSchema.json
+tsconfig.tsbuildinfo
