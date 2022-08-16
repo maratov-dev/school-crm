@@ -1,0 +1,2 @@
+# school-crm
+pet project
